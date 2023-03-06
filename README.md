@@ -7,7 +7,7 @@ https://www.academia.edu/97731474/Automated_Fruit_Detection_and_Counting_for_Pre
 ## Authors:
 - [Francesco Zambelli](https://github.com/francescozambelli)
 - [Gaetano Ricucci](https://github.com/gae-ric)
-- [Pietro Miglioranza]()
+- [Pietro Miglioranza](https://github.com/pmiglioranza)
 
 ### Abstract:
 
